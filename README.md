@@ -1,7 +1,7 @@
 <img align="" src ="https://wallpaperaccess.com/full/2471393.gif"/>
 <h1 align="center"> TrisTheConquor</h1>
 <h3 align="center">Friendship, understanding, community, kindness, youth, optimism, and unity.</h3>
-<img align="right" src="https://img5.thuthuatphanmem.vn/uploads/2022/01/10/anh-gif-buon-duoi-mua_013933527.gif"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
