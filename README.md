@@ -1,7 +1,7 @@
 <img align="" src ="https://wallpaperaccess.com/full/2471393.gif"/>
 <h1 align="center"> TrisTheConquor</h1>
 <h3 align="center">Friendship, understanding, community, kindness, youth, optimism, and unity.</h3>
-<img align="right" src="https://64.media.tumblr.com/cf898d5f62d862ca2eec7be905cb6c98/tumblr_pejc4q8tZ71wzypxlo1_500.gif"/>
+<img align="right" src="https://64.media.tumblr.com/dfb066423ea508e9e4947b46f7254753/tumblr_oxnmrzmbTk1wzypxlo1_640.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
