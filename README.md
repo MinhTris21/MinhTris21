@@ -1,6 +1,6 @@
 <h1 align="center"> TrisTheConquor</h1>
 <h3 align="center">Live by the sword, die by the sword.</h3>
-<img src ="https://cdnb.artstation.com/p/assets/images/images/036/271/507/original/bizarre-beasties-snow.gif?1617197303"/>
+<img src ="https://c.tenor.com/aW_E-EO9smoAAAAC/halloween-happy.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/17224207/tri-nguyen-minh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17224207/tri-nguyen-minh" height="30" width="40" /></a>
