@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="right" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" width = "415" height = "352"/>
+<img align="right" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif" width = "415" height = "352"/>
 <a href="https://stackoverflow.com/users/17224207/tri-nguyen-minh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17224207/tri-nguyen-minh" height="30" width="40" /></a>
 <a href="https://fb.com//halodyoml/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/halodyoml/" height="30" width="40" /></a>
 <a href="https://instagram.com//melodyoml/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/melodyoml/" height="30" width="40" /></a>
