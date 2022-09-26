@@ -1,9 +1,6 @@
 <h1 align="center"> TrisTheConquor</h1>
 <h3 align="center">Live by the sword, die by the sword.</h3>
-<img
-        src="https://scontent.fhan4-1.fna.fbcdn.net/v/t1.6435-9/81631326_615136565921226_4523559843633561600_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=fGNYs-k1DM8AX_XcgJ3&_nc_ht=scontent.fhan4-1.fna&oh=00_AT9SmeXbFYi4ltHQaiwZSxv5B5HIrTR3oUeNle5dTX9ToA&oe=634F8BE7"
-
-      />
+<img src ="https://cdnb.artstation.com/p/assets/images/images/036/271/507/original/bizarre-beasties-snow.gif?1617197303"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/17224207/tri-nguyen-minh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17224207/tri-nguyen-minh" height="30" width="40" /></a>
