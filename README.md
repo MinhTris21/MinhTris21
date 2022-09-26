@@ -1,7 +1,11 @@
 <h1 align="center"> TrisTheConquor</h1>
 <h3 align="center">Live by the sword, die by the sword.</h3>
-<img scr = "https://i.gifer.com/origin/b8/b842107e63c67d5674d17e0f576274fa.gif"/>
-- 🔭 I’m currently working on **Bulding my fucking life.**
+<img
+        src="https://scontent.fhan4-1.fna.fbcdn.net/v/t1.6435-9/81631326_615136565921226_4523559843633561600_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=fGNYs-k1DM8AX_XcgJ3&_nc_ht=scontent.fhan4-1.fna&oh=00_AT9SmeXbFYi4ltHQaiwZSxv5B5HIrTR3oUeNle5dTX9ToA&oe=634F8BE7"
+        alt=""
+        class="box-img"
+      />
+
 
 - 📫 How to reach me **tringuyenminh9696@gmail.com**
 
