@@ -1,6 +1,7 @@
+<img align="" src ="https://thumbs.gfycat.com/EuphoricElatedBats-size_restricted.gif"/>
 <h1 align="center"> TrisTheConquor</h1>
 <h3 align="center">Friendship, understanding, community, kindness, youth, optimism, and unity.</h3>
-<img align="right" src ="https://thumbs.gfycat.com/EuphoricElatedBats-size_restricted.gif"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/17224207/tri-nguyen-minh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17224207/tri-nguyen-minh" height="30" width="40" /></a>
