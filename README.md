@@ -16,6 +16,6 @@
 <p><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhtris21&show_icons=true&theme=dracula&locale=en&layout=compact" alt="minhtris21" /></p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=minhtris21&show_icons=true&theme=dracula&locale=en" alt="minhtris21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhtris21&show_icons=true&theme=dracula&locale=en" alt="minhtris21" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=minhtris21&theme=dark" alt="minhtris21"/></p>
