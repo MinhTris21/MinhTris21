@@ -1,7 +1,7 @@
 <h1 align="center"> TrisTheConquor</h1>
-<h3 align="center">Do your best, rest in peace.</h3>
+<h3 align="center">Live by the sword, die by the sword.</h3>
 
-- 🔭 I’m currently working on **Building my life.**
+- 🔭 I’m currently working on **Bulding my fucking life.**
 
 - 📫 How to reach me **tringuyenminh9696@gmail.com**
 
