@@ -1,6 +1,6 @@
 <h1 align="center"> TrisTheConquor</h1>
 <h3 align="center">Live by the sword, die by the sword.</h3>
-
+<img scr = "https://i.gifer.com/origin/b8/b842107e63c67d5674d17e0f576274fa.gif"/>
 - 🔭 I’m currently working on **Bulding my fucking life.**
 
 - 📫 How to reach me **tringuyenminh9696@gmail.com**
