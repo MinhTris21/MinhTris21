@@ -1,4 +1,4 @@
-<img align="" src ="https://wallpaperaccess.com/full/2471393.gif"/>
+<img align="" src ="https://wallpaperaccess.com/full/2471393.gif" height = "1000", width = "1000"/>
 <h1 align="center"> TrisTheConquor</h1>
 <h3 align="center">Friendship, understanding, community, kindness, youth, optimism, and unity.</h3>
 
