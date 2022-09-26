@@ -1,15 +1,9 @@
 <h1 align="center"> TrisTheConquor</h1>
 <h3 align="center">Live by the sword, die by the sword.</h3>
-<img
-        src="https://i.gifer.com/origin/b8/b842107e63c67d5674d17e0f576274fa.gif"
-        alt=""
-        class="box-img"
-      />
+<img src="https://media0.giphy.com/media/HxZ3prK9hIDsc/giphy.gif"/>
 
 
-- 📫 How to reach me **tringuyenminh9696@gmail.com**
 
-- 📄 Know about my experiences [Nothing](Nothing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
