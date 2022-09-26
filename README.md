@@ -1,6 +1,6 @@
 <h1 align="center"> TrisTheConquor</h1>
 <h3 align="center">Live by the sword, die by the sword.</h3>
-<img align="right" src ="https://i.pinimg.com/originals/48/09/4e/48094e75e2902a89f7e155baf663c2f1.gif"/>
+<img align="center" src ="https://i.pinimg.com/originals/48/09/4e/48094e75e2902a89f7e155baf663c2f1.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/17224207/tri-nguyen-minh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17224207/tri-nguyen-minh" height="30" width="40" /></a>
