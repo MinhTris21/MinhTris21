@@ -1,4 +1,4 @@
-<img align="" src ="https://thumbs.gfycat.com/EuphoricElatedBats-size_restricted.gif"/>
+<img align="" src ="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif"/>
 <h1 align="center"> TrisTheConquor</h1>
 <h3 align="center">Friendship, understanding, community, kindness, youth, optimism, and unity.</h3>
 
