@@ -1,8 +1,8 @@
 <img align="" src ="https://wallpaperaccess.com/full/2471393.gif"/>
 <h1 align="center"> TrisTheConquor</h1>
 <h3 align="center">Friendship, understanding, community, kindness, youth, optimism, and unity.</h3>
-<img align="right" src="https://media1.giphy.com/media/QuxqWk7m9ffxyfoa0a/giphy.gif"/>
-<h5 alig="center">DSADSADASDASA</h5>
+<img align="right" src="https://media1.giphy.com/media/YwAgyCddum3K0/200w.gif?cid=82a1493bn87rzdz0bc2cbs2byiq0u7d1a31u9gbqn8275nlu&rid=200w.gif&ct=g"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/17224207/tri-nguyen-minh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17224207/tri-nguyen-minh" height="30" width="40" /></a>
