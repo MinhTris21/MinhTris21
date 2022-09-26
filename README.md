@@ -1,6 +1,6 @@
 <h1 align="center"> TrisTheConquor</h1>
 <h3 align="center">Live by the sword, die by the sword.</h3>
-<img src="https://media0.giphy.com/media/HxZ3prK9hIDsc/giphy.gif"/>
+<img src="https://wallpaperaccess.com/full/2641092.gif"/>
 
 
 
