@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=minhtris21&show_icons=true&theme=dracula&locale=en" alt="minhtris21" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=minhtris21&theme=dark" alt="minhtris21" width = "500"/></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=minhtris21&theme=dark" alt="minhtris21" width = "430"/></p>
