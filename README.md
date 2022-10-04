@@ -1,6 +1,6 @@
 <img align="" src ="https://wallpaperaccess.com/full/2471393.gif"/>
 <h1 align="center"> TrisTheConquor</h1>
-<h3 align="center">Live by the sword, die by the sword.</h3>
+<h3 align="center">May the code be with you.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
