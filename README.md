@@ -1,6 +1,5 @@
 <img align="" src ="https://wallpaperaccess.com/full/2471393.gif"/>
 <h2>----------------------------------------------------------------------------------------------------</h2>
-<h3 align="center">May the code be with you.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
